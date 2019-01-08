@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Testing_Nunit/v15
+/.vs/Testing_Nunit/DesignTimeBuild
+/packages
+/TestNinja/bin/Debug/netstandard2.0
+/TestNinja/obj
+/TestNinja.UnitTests/bin/Debug
+/TestNinja.UnitTests/obj/Debug
